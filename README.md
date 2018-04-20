@@ -1,14 +1,14 @@
 <p align="center"><img src="https://imgur.com/FGT9yfC.png" width="350"></p>
 
-<p align="center">Super-GraphiQL is a powerful yet simple GUI designed for testing your GraphQL API.</p>
+<p align="center">SuperGraphiQL is a powerful yet simple GUI designed for testing your GraphQL API.</p>
 
-With Super-GraphiQL users are able to quickly setup a series of tests for GraphQL API, better understand the execution of queries and save test cases for easy reuse.
+With SuperGraphiQL users are able to quickly setup a series of tests for GraphQL API, better understand the execution of queries and save test cases for easy reuse.
 
 <p align="center"><img src="https://imgur.com/oUNUTSW.png" width="750"></p>
 
 ## Getting Started
 <b>Express Middleware</b> 
-<p>To use Super-GraphiQL, install and incorporate the express middleware into your existing project with npm:</p>
+<p>To use SuperGraphiQL, install and incorporate the express middleware into your existing project with npm:</p>
 
 ```sh
 
@@ -31,7 +31,7 @@ supergraphiqlExpress({
 ```
 
 <b>React Component</b>
-You can incorporate Super-GraphiQL into your existing project with npm:
+<p>You can incorporate SuperGraphiQL into your existing project with npm:</p>
 
 ```sh
 $ npm install --save super-graphiql
@@ -65,7 +65,7 @@ Include the necessary CSS and Font Awesome script on your page.
 ```
 
 ## Features 
-Super-GraphiQL leverages components of [GraphiQL](https://github.com/graphql/graphiql) under the hood but developed to be a more powerful and flexibile GraphQL IDE to enable a smooth and efficient testing workflow. Super-GraphiQL adds the following features to the GraphQL ecosystem:
+SuperGraphiQL leverages components of [GraphiQL](https://github.com/graphql/graphiql) under the hood but developed to be a more powerful and flexibile GraphQL IDE to enable a smooth and efficient testing workflow. SuperGraphiQL adds the following features to the GraphQL ecosystem:
   
   - Supports multiple GraphQL queries and mutations in one test script
   - Save and reuse test scripts including a searchable Query history
